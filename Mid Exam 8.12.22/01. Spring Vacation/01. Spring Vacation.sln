@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Spring Vacation", "01. Spring Vacation\01. Spring Vacation.csproj", "{EFB96CF8-81CD-439E-AA2A-3F580D891717}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFB96CF8-81CD-439E-AA2A-3F580D891717}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFB96CF8-81CD-439E-AA2A-3F580D891717}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFB96CF8-81CD-439E-AA2A-3F580D891717}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFB96CF8-81CD-439E-AA2A-3F580D891717}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5BF66AF4-817B-490B-B576-2872A3FD9227}
+	EndGlobalSection
+EndGlobal
